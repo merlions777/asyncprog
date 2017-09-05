@@ -1,0 +1,16 @@
+D:\Github\Async\BGW.WPF\bin\Debug\BGW.WPF.exe.config
+D:\Github\Async\BGW.WPF\bin\Debug\BGW.WPF.exe
+D:\Github\Async\BGW.WPF\bin\Debug\BGW.WPF.pdb
+D:\Github\Async\BGW.WPF\bin\Debug\SlowLibrary.dll
+D:\Github\Async\BGW.WPF\bin\Debug\SlowLibrary.pdb
+D:\Github\Async\BGW.WPF\obj\Debug\BGW.WPF.csprojResolveAssemblyReference.cache
+D:\Github\Async\BGW.WPF\obj\Debug\MainWindow.baml
+D:\Github\Async\BGW.WPF\obj\Debug\App.baml
+D:\Github\Async\BGW.WPF\obj\Debug\MainWindow.g.cs
+D:\Github\Async\BGW.WPF\obj\Debug\App.g.cs
+D:\Github\Async\BGW.WPF\obj\Debug\BGW.WPF_MarkupCompile.cache
+D:\Github\Async\BGW.WPF\obj\Debug\BGW.WPF.g.resources
+D:\Github\Async\BGW.WPF\obj\Debug\BGW.WPF.Properties.Resources.resources
+D:\Github\Async\BGW.WPF\obj\Debug\BGW.WPF.csproj.GenerateResource.Cache
+D:\Github\Async\BGW.WPF\obj\Debug\BGW.WPF.exe
+D:\Github\Async\BGW.WPF\obj\Debug\BGW.WPF.pdb

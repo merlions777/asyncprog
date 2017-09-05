@@ -1,0 +1,5 @@
+D:\Github\Async\SlowLibrary\bin\Debug\SlowLibrary.dll
+D:\Github\Async\SlowLibrary\bin\Debug\SlowLibrary.pdb
+D:\Github\Async\SlowLibrary\obj\Debug\SlowLibrary.dll
+D:\Github\Async\SlowLibrary\obj\Debug\SlowLibrary.pdb
+D:\Github\Async\SlowLibrary\obj\Debug\SlowLibrary.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Github\Async\AysncProgramming\obj\Debug\BGW.csprojResolveAssemblyReference.cache
+D:\Github\Async\AysncProgramming\obj\Debug\AysncProgramming.MainForm.resources
+D:\Github\Async\AysncProgramming\obj\Debug\AysncProgramming.Properties.Resources.resources
+D:\Github\Async\AysncProgramming\obj\Debug\BGW.csproj.GenerateResource.Cache
+D:\Github\Async\AysncProgramming\bin\Debug\AysncProgramming.exe.config
+D:\Github\Async\AysncProgramming\bin\Debug\AysncProgramming.exe
+D:\Github\Async\AysncProgramming\bin\Debug\AysncProgramming.pdb
+D:\Github\Async\AysncProgramming\bin\Debug\SlowLibrary.dll
+D:\Github\Async\AysncProgramming\bin\Debug\SlowLibrary.pdb
+D:\Github\Async\AysncProgramming\obj\Debug\AysncProgramming.exe
+D:\Github\Async\AysncProgramming\obj\Debug\AysncProgramming.pdb
